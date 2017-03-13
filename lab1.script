@@ -1,0 +1,13 @@
+Script started on 2017年03月13日 (週一) 10時37分13秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami;pwd
+pd2vm
+/home/pd2vm/Desktop
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git config -l
+user.email=hcc7391@gmail.com
+user.name=Chienchia00
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git clone https://github.com/ChienChia00/la b1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m 
+Script done on 2017年03月13日 (週一) 10時37分54秒
